@@ -4,7 +4,7 @@ Author: Kevin Hock Tuen Ng
 
 ## Project implementation description
 
-This project was the final project of the course EE450: Introduction to Computer Networks.
+This project was the final project of the course EE450 Introduction to Computer Networks at the University of Southern California. 
 
 The goal was to implement a client-server distributed system for searching for the shortest path. The client's inputs were a mapID, source and destination vertices. There were three majors components in this project: a client, an AWS server, 2 map storage servers and a calculation server.
 All the servers and clients used functions to both establish connections and communicate with each other from "ServerFuncs" objects.
